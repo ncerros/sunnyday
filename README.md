@@ -117,6 +117,11 @@ You are required to submit the following for review:
 * The URL of the deployed application.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+### I updated the html file: I added navs, sections, and organize it.
+    I updated the css file: i added position sticky on the header, backgroung color on .benfit, organized elements on the file.
+####Screenshots of the html and css files.    
+    ![html](https://user-images.githubusercontent.com/72178042/107136207-c9991c00-68c6-11eb-82c4-dc414957ca1c.png)
+    ![css](https://user-images.githubusercontent.com/72178042/107136212-cf8efd00-68c6-11eb-998c-c26b18b7b138.png)
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
